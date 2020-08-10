@@ -1,1 +1,0 @@
-# periscope_thumbnails
