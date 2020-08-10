@@ -1,9 +1,9 @@
 #include <array.au3>
 
-;change $user and $bid values accordingly:
+;change $user and $bid values according to the url:
 ;https://www.periscope.tv/username/broadcast_id
 $user = 'xxxxxxxxxx'  ;username
-$bid  = 'xxxxxxxxxx'  ;broadcast_id from the url
+$bid  = 'xxxxxxxxxx'  ;broadcast_id
 $sid  = null
 $url  = null
 
