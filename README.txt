@@ -1,4 +1,4 @@
-simple autoit script for scraping images from periscope vods
+autoit script for scraping images from periscope vods
 
 
 instructions:
